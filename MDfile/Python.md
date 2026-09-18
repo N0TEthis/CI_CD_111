@@ -183,5 +183,4 @@ docker run --rm my-python-app:test
 docker run --rm -it my-python-app:test /bin/bash
 ```
 
-![Скрин]()
 ![Скрин](./MDpng/изображение%20copy.png)
